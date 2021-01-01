@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FragmentSample</string>
+
+
+    <string-array name="androidOS">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+        <item>Honeycomb</item>
+        <item>Ice Cream SandWich</item>
+        <item>Jelly Bean</item>
+        <item>KitKat</item>
+    </string-array>
+
+
+
+</resources>
